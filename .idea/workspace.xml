@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a7d021-33da-445d-9a0d-487a79eff972" name="Default Changelist" comment="" />
+    <list default="true" id="04a7d021-33da-445d-9a0d-487a79eff972" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Yv6tlcgihX6vWD5RebKxpviiBD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,11 +37,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.AmazonTitle">
     <configuration name="NavigationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cbt.tests.NavigationTests" />
       <module name="Basic-Navigation-Homework-I" />
@@ -41,8 +50,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AmazonTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Basic-Navigation-Homework-I" />
+      <option name="PACKAGE_NAME" value="com.cbt.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cbt.tests.AmazonTitle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AmazonTitle" />
         <item itemvalue="Application.NavigationTests" />
       </list>
     </recent_temporary>
@@ -56,22 +77,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583813558839" />
-    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1583969802586">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1586136021743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583969802586" />
-    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1583969802583">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586136021743" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1586136021743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583969802583" />
-    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1583969802583">
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586136021743" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1586136021743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583969802583" />
-    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1583969802585">
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586136021743" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1586136021743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583969802585" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586136021743" />
     <state x="828" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584281697664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -80,10 +101,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="13" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583815188240" />
-    <state x="436" y="19" key="new project wizard" timestamp="1584817501166">
+    <state x="436" y="19" key="new project wizard" timestamp="1586136019096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="436" y="19" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584817501166" />
+    <state x="436" y="19" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586136019096" />
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583884134810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
